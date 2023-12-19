@@ -1,0 +1,85 @@
+*{
+    padding: 0px;
+    margin: 0px;
+};
+h1{
+    padding: 10px;
+    margin-left: 300px;
+    text-align: end;
+}
+h4{
+    margin-left: 20px;
+    font-style: italic;
+}
+#table-bg{
+    background-color:#fde3e3 ;
+}
+#coloring{
+    color: #646363;
+}
+body{
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+};
+.donate{
+    text-align: center;
+    align-content: center;
+}
+.contents{
+    padding: 0px;
+    width: 100%;
+};
+.sizz{
+    width: 250px;
+    height: 200px;
+}
+.bg-colorr{
+    background-color: #fde3e3;
+}
+.bg-colorr1{
+    background-color: azure;
+}
+h5{
+    font-style: white;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(191, 215, 207);
+}
+
+
+
+/*footer*/
+.footer{
+    background-color: #343434;
+}
+.footer h4{
+    color: #ccc;
+    text-transform: uppercase;
+    font-size: 16px;
+    border-bottom: 1px solid #666;
+    padding-bottom: 3px;
+}
+.footer a{
+    text-decoration: none;
+    transition: all .3s;
+}
+.footer a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+.footer a, .footer li{
+    color: #c8c8c8;
+}
+.footer li a{
+    display: block;
+}
+.footer-icon a{
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 20px;
+}
